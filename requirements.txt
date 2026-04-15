@@ -1,0 +1,9 @@
+
+
+Use the packages allowed by the guide for this project style, such as NumPy, OpenCV, SciPy, and Matplotlib. :contentReference[oaicite:3]{index=3}
+
+```txt
+numpy
+opencv-python
+matplotlib
+scipy
