@@ -164,7 +164,8 @@ Located in `results/groundtruth/`
 * Uses provided calibration files
 * Final outputs saved in TUM format
 --- 
-# Random seed: deterministic OpenCV / NumPy pipeline where applicable.
+# Random seed: 
+* Deterministic OpenCV / NumPy pipeline where applicable.
 ---
 
 # Author
