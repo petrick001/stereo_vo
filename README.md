@@ -163,7 +163,8 @@ Located in `results/groundtruth/`
 * No deep learning methods used
 * Uses provided calibration files
 * Final outputs saved in TUM format
-
+--- 
+# Random seed: deterministic OpenCV / NumPy pipeline where applicable.
 ---
 
 # Author
