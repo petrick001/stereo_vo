@@ -109,4 +109,8 @@ plt.title("Trajectory Comparison — Room2")
 plt.grid(True)
 plt.axis("equal")
 plt.legend()
+
+plt.savefig("results/plots/room2_final_plot.png", dpi=300, bbox_inches="tight")
+print("Saved: results/plots/room2_final_plot.png")
+
 plt.show(block=True)
